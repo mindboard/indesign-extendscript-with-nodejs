@@ -5,3 +5,7 @@
 
 書籍「[Node.js による InDesign ExtendScript モダン開発入門](https://www.amazon.co.jp/dp/B09NXRT2VV)」のソースコード集です。
 
+
+## 使い方
+
+Node.js のプロジェクトディレクトリで npm update してから使用してください。
