@@ -5,7 +5,7 @@ const console = require("./modules/console.js");
 const names = ['Taro', 'Hanako'];
 
 const greetings = _.map(names, (name)=> {
-    return `Hello ${name}!`;
+    return `Hello, ${name}!`;
 });
 
 console.log(greetings);

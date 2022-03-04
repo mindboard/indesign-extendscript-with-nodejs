@@ -6,7 +6,7 @@ const names = ['Taro', 'Hanako'];
 
 const greetings = _.map(prefixes, (prefix)=> {
     return _.map(names, (name)=> {
-        return `${prefix} ${name}!`;
+        return `${prefix}, ${name}!`;
     });
 });
 

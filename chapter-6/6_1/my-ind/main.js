@@ -22,5 +22,5 @@ console.log(doc);
 const textFrameParams = {};
 textFrameParams.geometricBounds = ['0mm', '0mm', '50mm', '50mm'];
 const textFrame = page.textFrames.add(textFrameParams);
-textFrame.contents = 'Hello World!';
+textFrame.contents = 'Hello, World!';
 console.log(textFrame);

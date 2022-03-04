@@ -1,2 +1,2 @@
 //@target InDesign
-$.writeln('Hello World! '+app.version);
+$.writeln('Hello, World! '+app.version);

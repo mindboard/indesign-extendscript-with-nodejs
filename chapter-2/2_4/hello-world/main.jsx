@@ -5,4 +5,4 @@ console.log = function(message){
     $.writeln(message);
 };
 
-console.log('Hello World!');
+console.log('Hello, World!');

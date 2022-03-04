@@ -8,7 +8,7 @@ const doc = myind.createDocument({
 console.log(doc);
 
 const page = doc.pages.item(0);
-const contents = 'Hello World!';
+const contents = 'Hello, World!';
 
 const textFrame = myind.createTextFrame(page, {
     left: '0mm',
