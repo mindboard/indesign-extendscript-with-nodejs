@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "devDependencies": {
+  "license": "ISC",
+  "dependencies": {
     "JSON2": "^0.1.0"
   }
 }

@@ -8,7 +8,7 @@ module.exports = {
         filename: './main.jsx'
     },
     target: ['web', 'es5'],
-	module: {
+    module: {
         rules: [
           {
             test: /\.js$/,
