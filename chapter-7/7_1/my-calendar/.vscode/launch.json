@@ -4,9 +4,9 @@
         {
             "type": "extendscript-debug",
             "request": "launch",
-            "name": "main.jsx",
-            "program": "${workspaceFolder}/main.jsx",
-            "stopOnEntry": false
+            "name": "Launch main.jsx",
+            "script": "${workspaceFolder}/main.jsx",
+            "engineName": "main"
         }
     ]
 }
