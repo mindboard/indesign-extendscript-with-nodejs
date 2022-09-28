@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  	"start": "webpack; echo \"\">>main.jsx; echo \"//@target InDesign\">>main.jsx",
+    "start": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
