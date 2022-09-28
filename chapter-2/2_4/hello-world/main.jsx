@@ -1,4 +1,3 @@
-//@target InDesign
 var console = {};
 
 console.log = function(message){
