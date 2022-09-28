@@ -1,11 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "0.2.0",
     "configurations": [
         {
             "type": "extendscript-debug",
             "request": "launch",
-            "name": "Launch main.jsx",
+            "name": "main.jsx",
             "script": "${workspaceFolder}/main.jsx",
+            "hostAppSpecifier": "indesign-17",
             "engineName": "main"
         }
     ]
